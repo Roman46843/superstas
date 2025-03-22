@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/Kazbe095/super22.git
